@@ -1,0 +1,42 @@
+@charset "ISO-8859-1";
+#title
+{
+	padding-left:5px;
+	padding-top:10px;
+	padding-bottom:10px;
+	
+}
+
+#languages
+{
+	float:right;
+	margin-right:10px;
+}
+
+#languages IMG
+{
+	width:60px;
+	height:30px;	
+}
+
+
+.ourbutton
+{
+	font-weight:bold;
+	padding:20px;
+	text-transform:uppercase;
+	margin-top:20px;
+	background-color:#AAA;
+}
+
+A
+{
+	text-decoration:none;	
+}
+
+#user
+{
+	float:right;
+	display:inline-block;
+	margin-right:10px;	
+}
